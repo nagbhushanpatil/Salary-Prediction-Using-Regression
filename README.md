@@ -47,7 +47,8 @@ This means 98.2% of the salary variation is explained by the model — indicatin
 
 
 
-echnologies Used
+Technologies Used
+
 Python
 
 Pandas
