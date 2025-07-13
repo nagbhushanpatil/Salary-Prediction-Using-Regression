@@ -45,7 +45,9 @@ This means 98.2% of the salary variation is explained by the model — indicatin
 
 <img width="893" height="99" alt="image" src="https://github.com/user-attachments/assets/c2b10684-20af-4110-8d09-1431f52797cb" />
 
+<img width="598" height="453" alt="image" src="https://github.com/user-attachments/assets/c3f2cc0c-7727-4a95-8698-1d737eb7e571" />
 
+<img width="598" height="507" alt="image" src="https://github.com/user-attachments/assets/d17c86eb-2b6f-4435-a2f3-7caf8c866e8a" />
 
 Technologies Used
 
