@@ -43,10 +43,24 @@ This means 98.2% of the salary variation is explained by the model — indicatin
 
 
 
+<img width="893" height="99" alt="image" src="https://github.com/user-attachments/assets/c2b10684-20af-4110-8d09-1431f52797cb" />
 
 
 
+echnologies Used
+Python
 
+Pandas
+
+NumPy
+
+Statsmodels
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
 
 
 
