@@ -14,10 +14,10 @@ Location
 The model is built using Ordinary Least Squares (OLS) regression with the statsmodels Python package.
 
 Dataset
-A synthetic dataset of 250 employees was generated with the following columns:
+A  dataset of 250 employees was used with the following columns:
 
 Column	Description
-Name	Randomly generated full names
+Name full names
 Age	Age (22–60 years)
 YearsExperience	Estimated based on age
 EducationLevel	High School, Associate, Bachelor, Master, PhD
@@ -30,5 +30,34 @@ A multivariate regression model was used to understand how each factor impacts s
 
 R-squared: 0.982
 This means 98.2% of the salary variation is explained by the model — indicating high accuracy.
+
+
+
+| Feature             | Effect on Salary                                                                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `YearsExperience`   | +\$2,165 per year                                                                                                                                |
+| `EducationLevel`    | Higher education = higher salary:<br>• Bachelor: +\$13.5K<br>• Master: +\$27K<br>• PhD: +\$40K<br>• High School: -\$5.7K (compared to Associate) |
+| `PerformanceRating` | • Good: +\$4.7K<br>• Excellent: +\$7.3K<br>• Poor: -\$2.4K (compared to Average)                                                                 |
+| `Location`          | Salaries vary by city:<br>• New York: +\$8.7K<br>• LA: +\$5.8K<br>• Houston: -\$4.4K<br>• Phoenix: -\$6.9K (compared to Chicago)                 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
